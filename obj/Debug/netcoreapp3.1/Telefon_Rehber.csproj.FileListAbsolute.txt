@@ -1,0 +1,14 @@
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.AssemblyInfo.cs
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\Telefon_Rehber\bin\Debug\netcoreapp3.1\Telefon_Rehber.exe
+D:\education\PatikaPratikler\Telefon_Rehber\bin\Debug\netcoreapp3.1\Telefon_Rehber.deps.json
+D:\education\PatikaPratikler\Telefon_Rehber\bin\Debug\netcoreapp3.1\Telefon_Rehber.runtimeconfig.json
+D:\education\PatikaPratikler\Telefon_Rehber\bin\Debug\netcoreapp3.1\Telefon_Rehber.runtimeconfig.dev.json
+D:\education\PatikaPratikler\Telefon_Rehber\bin\Debug\netcoreapp3.1\Telefon_Rehber.dll
+D:\education\PatikaPratikler\Telefon_Rehber\bin\Debug\netcoreapp3.1\Telefon_Rehber.pdb
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.dll
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.pdb
+D:\education\PatikaPratikler\Telefon_Rehber\obj\Debug\netcoreapp3.1\Telefon_Rehber.genruntimeconfig.cache
